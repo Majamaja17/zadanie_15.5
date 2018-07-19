@@ -1,5 +1,7 @@
 {
-  "presets": ["latest"],
-  "presets": ["env", "react"],
-  "presets": ["latest"]
+  "presets": [
+  "latest",
+  "env", "react",
+   "latest"
+   ]
 }
